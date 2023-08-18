@@ -1,0 +1,115 @@
+week,dead_bird_number,result,tract_num,agency,species
+29,22-866,Positive,6037120105,Greater Los Angeles Co VCD - Sylmar,Red-tailed Hawk
+39,22-1396,Positive,6037574000,Greater Los Angeles Co VCD - SFS,Unknown - Crow or Raven
+42,22-1498,Positive,6037408401,Greater Los Angeles Co VCD - SFS,American Crow
+29,22-837,Negative,6037480702,San Gabriel Valley MVCD,Western Tanager
+29,22-865,Negative,6037120105,Greater Los Angeles Co VCD - Sylmar,Red-tailed Hawk
+42,22-1512,Positive,6037577000,Long Beach Animal Control,American Crow
+26,22-692,Negative,6037404600,San Gabriel Valley MVCD,Hooded Oriole
+26,22-757,Negative,6037403901,San Gabriel Valley MVCD,Red-shouldered Hawk
+41,22-1479,Positive,6037401902,San Gabriel Valley MVCD,American Crow
+30,22-938,Negative,6037310201,Greater Los Angeles Co VCD - Sylmar,Sharp-shinned Hawk
+22,22-465,Positive,6037117301,Greater Los Angeles Co VCD - Sylmar,American Crow
+22,22-466,Positive,6037117301,Greater Los Angeles Co VCD - Sylmar,American Crow
+22,22-468,Positive,6037117301,Greater Los Angeles Co VCD - Sylmar,American Crow
+23,22-553,Positive,6037276500,Los Angeles Co West VCD,Common Raven
+24,22-562,Positive,6037300100,Greater Los Angeles Co VCD - Sylmar,California Scrub-Jay
+27,22-771,Positive,6037115204,Greater Los Angeles Co VCD - Sylmar,American Crow
+29,22-776,Positive,6037900301,Antelope Valley MVCD,Great Horned Owl
+29,22-809,Positive,6037552900,Greater Los Angeles Co VCD - SFS,American Crow
+30,22-891,Positive,6037128704,Greater Los Angeles Co VCD - Sylmar,Unknown - Crow or Raven
+30,22-904,Positive,6037123601,Greater Los Angeles Co VCD - Sylmar,Cooper's Hawk
+30,22-934,Positive,6037480602,San Gabriel Valley MVCD,American Crow
+31,22-941,Positive,6037554403,Greater Los Angeles Co VCD - SFS,Cooper's Hawk
+31,22-953,Positive,6037301701,Greater Los Angeles Co VCD - Sylmar,Great Horned Owl
+31,22-971,Positive,6037464102,Greater Los Angeles Co VCD - SFS,Unknown - Crow or Raven
+31,22-983,Positive,6037464200,Greater Los Angeles Co VCD - SFS,American Crow
+33,22-1075,Positive,6037554516,Greater Los Angeles Co VCD - SFS,American Crow
+33,22-1101,Positive,6037503103,Greater Los Angeles Co VCD - SFS,Sparrow
+33,22-1124,Positive,6037192410,Los Angeles Co West VCD,American Crow
+34,22-1125,Positive,6037554516,Greater Los Angeles Co VCD - SFS,American Crow
+34,22-1156,Positive,6037431002,San Gabriel Valley MVCD,Unknown - Crow or Raven
+34,22-1176,Positive,6037554511,Greater Los Angeles Co VCD - SFS,American Crow
+35,22-1188,Positive,6037128602,Greater Los Angeles Co VCD - Sylmar,American Crow
+35,22-1196,Positive,6037192002,Los Angeles Co West VCD,American Crow
+35,22-1220,Positive,6037481500,San Gabriel Valley MVCD,American Crow
+35,22-1241,Positive,6037402705,San Gabriel Valley MVCD,American Crow
+36,22-1289,Positive,6037407400,San Gabriel Valley MVCD,American Crow
+37,22-1257,Positive,6037503502,Greater Los Angeles Co VCD - SFS,American Crow
+37,22-1291,Positive,6037405600,San Gabriel Valley MVCD,American Crow
+37,22-1317,Positive,6037261102,Los Angeles Co West VCD,Steller's Jay
+37,22-1341,Positive,6037401801,San Gabriel Valley MVCD,American Crow
+37,22-1340,Positive,6037401801,San Gabriel Valley MVCD,American Crow
+37,22-1333,Positive,6037432102,San Gabriel Valley MVCD,Unknown - Crow or Raven
+38,22-1337,Positive,6037555107,Greater Los Angeles Co VCD - SFS,Sparrow
+38,22-1344,Positive,6037574800,Greater Los Angeles Co VCD - SFS,American Crow
+38,22-1370,Positive,6037481902,San Gabriel Valley MVCD,House Finch
+39,22-1379,Positive,6037574000,Greater Los Angeles Co VCD - SFS,American Crow
+39,22-1397,Positive,6037229420,Greater Los Angeles Co VCD - SFS,Unknown - Crow or Raven
+40,22-1391,Positive,6037702300,Los Angeles Co West VCD,American Crow
+40,22-1406,Positive,6037571201,Greater Los Angeles Co VCD - SFS,American Crow
+41,22-1441,Positive,6037554517,Greater Los Angeles Co VCD - SFS,American Crow
+41,22-1469,Positive,6037216301,Los Angeles Co West VCD,American Crow
+41,22-1478,Positive,6037403319,Greater Los Angeles Co VCD - SFS,Unknown - songbird
+41,22-1489,Positive,6037481800,San Gabriel Valley MVCD,American Crow
+48,22-1570,Positive,6037577605,Long Beach Animal Control,American Crow
+4,22-7,Negative,6037670002,Los Angeles Co West VCD,Common Raven
+16,22-119,Negative,6037181400,Greater Los Angeles Co VCD - SFS,American Crow
+17,22-144,Negative,6037920104,Greater Los Angeles Co VCD - Sylmar,Common Raven
+17,22-156,Negative,6037128704,Greater Los Angeles Co VCD - Sylmar,American Crow
+18,22-163,Negative,6037920326,Greater Los Angeles Co VCD - Sylmar,House Finch
+18,22-161,Negative,6037574000,Greater Los Angeles Co VCD - SFS,American Crow
+18,22-170,Negative,6037125101,Greater Los Angeles Co VCD - Sylmar,Unknown
+19,22-211,Negative,6037269000,Los Angeles Co West VCD,American Crow
+19,22-230,Negative,6037276000,Los Angeles Co West VCD,American Crow
+19,22-229,Negative,6037276000,Los Angeles Co West VCD,American Crow
+19,22-243,Negative,6037124204,Greater Los Angeles Co VCD - Sylmar,Western Tanager
+20,22-205,Negative,6037401311,San Gabriel Valley MVCD,Unknown Thrush
+20,22-216,Negative,6037402602,San Gabriel Valley MVCD,Black-headed Grosbeak
+20,22-252,Negative,6037143603,Greater Los Angeles Co VCD - Sylmar,Finch
+20,22-268,Negative,6037103300,Greater Los Angeles Co VCD - Sylmar,Common Raven
+20,22-310,Negative,6037400602,San Gabriel Valley MVCD,Sparrow
+20,22-321,Negative,6037277000,Los Angeles Co West VCD,American Crow
+21,22-428,Negative,6037480102,San Gabriel Valley MVCD,Sparrow
+22,22-311,Negative,6037109601,Greater Los Angeles Co VCD - Sylmar,American Crow
+22,22-394,Negative,6037277000,Los Angeles Co West VCD,American Crow
+22,22-402,Negative,6037125102,Greater Los Angeles Co VCD - Sylmar,House Finch
+22,22-444,Negative,6037124000,Greater Los Angeles Co VCD - Sylmar,American Crow
+22,22-460,Negative,6037134101,Greater Los Angeles Co VCD - Sylmar,Sparrow
+24,22-482,Negative,6037291210,Greater Los Angeles Co VCD - SFS,Unknown - Crow or Raven
+24,22-558,Negative,6037109800,Greater Los Angeles Co VCD - Sylmar,American Crow
+24,22-635,Negative,6037400207,San Gabriel Valley MVCD,American Crow
+26,22-718,Negative,6037294110,Greater Los Angeles Co VCD - SFS,Unknown - Crow or Raven
+26,22-727,Negative,6037102107,Greater Los Angeles Co VCD - Sylmar,House Finch
+26,22-734,Negative,6037464200,Greater Los Angeles Co VCD - SFS,Unknown
+26,22-737,Negative,6037401001,San Gabriel Valley MVCD,Acorn Woodpecker
+26,22-741,Negative,6037702501,Los Angeles Co West VCD,American Crow
+27,22-675,Negative,6037901007,Antelope Valley MVCD,Common Raven
+27,22-764,Negative,6037301601,Greater Los Angeles Co VCD - Sylmar,American Crow
+28,22-783,Negative,6037124000,Greater Los Angeles Co VCD - Sylmar,American Crow
+29,22-789,Negative,6037920015,Antelope Valley MVCD,Cooper's Hawk
+29,22-817,Negative,6037503502,Greater Los Angeles Co VCD - SFS,Cooper's Hawk
+29,22-835,Negative,6037551900,Greater Los Angeles Co VCD - SFS,American Crow
+29,22-910,Negative,6037460200,San Gabriel Valley MVCD,Cooper's Hawk
+30,22-922,Negative,6037460700,Greater Los Angeles Co VCD - Sylmar,American Crow
+30,22-928,Negative,6037137302,Greater Los Angeles Co VCD - Sylmar,Lesser Goldfinch
+31,22-943,Negative,6037137402,Greater Los Angeles Co VCD - Sylmar,Great Horned Owl
+31,22-977,Negative,6037555107,Greater Los Angeles Co VCD - SFS,House Finch
+32,22-995,Negative,6037554521,Greater Los Angeles Co VCD - SFS,American Crow
+32,22-1053,Negative,6037554516,Greater Los Angeles Co VCD - SFS,American Crow
+33,22-1082,Negative,6037275311,Los Angeles Co West VCD,American Crow
+33,22-1114,Negative,6037431400,San Gabriel Valley MVCD,Unknown - songbird
+33,22-1117,Negative,6037571101,Greater Los Angeles Co VCD - SFS,American Crow
+34,22-1137,Negative,6037135201,Greater Los Angeles Co VCD - Sylmar,American Crow
+34,22-1153,Negative,6037462400,San Gabriel Valley MVCD,Sparrow
+34,22-1167,Negative,6037571000,Greater Los Angeles Co VCD - SFS,American Crow
+35,22-1218,Negative,6037300901,Greater Los Angeles Co VCD - Sylmar,Acorn Woodpecker
+37,22-1343,Negative,6037430802,San Gabriel Valley MVCD,Red-crowned Parrot
+38,22-1372,Negative,6037430701,San Gabriel Valley MVCD,Lesser Goldfinch
+40,22-1422,Negative,6037401902,San Gabriel Valley MVCD,Unknown Thrush
+41,22-1412,Negative,6037920102,Greater Los Angeles Co VCD - Sylmar,House Finch
+41,22-1434,Negative,6037103300,Greater Los Angeles Co VCD - Sylmar,Common Raven
+41,22-1465,Negative,6037128101,Greater Los Angeles Co VCD - Sylmar,Fox Sparrow
+41,22-1464,Negative,6037195100,Greater Los Angeles Co VCD - Sylmar,Virginia Rail
+41,22-1495,Negative,6037401705,San Gabriel Valley MVCD,House Finch
+42,22-1494,Negative,6037554516,Greater Los Angeles Co VCD - SFS,American Crow
